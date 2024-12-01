@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Momina-Hassan&layout=donut)](https://github.com/Momina-Hassan/github-readme-stats)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Momina-Hassan&layout=donut)](https://github.com/Momina-Hassan/github-readme-stats)
 
 
 <!--
