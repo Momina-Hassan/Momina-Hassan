@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 ### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Momina-Hassan&layout=compact)
-
-<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Momina-Hassan&layout=donut)](https://github.com/Momina-Hassan/github-readme-stats)<!--
 **Momina-Hassan/Momina-Hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
