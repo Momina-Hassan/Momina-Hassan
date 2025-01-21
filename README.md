@@ -1,7 +1,8 @@
 
 
 
-<img src="https://github.com/Momina-Hassan/Momina-Hassan/blob/main/514f3fccb71047d780be491c435a79e1.gif?raw=true" alt="MasterHead" width="100%">
+<img src="https://github.com/Momina-Hassan/Momina-Hassan/blob/main/c1b31611e66b7c211bfd0296dd454bfb-ezgif.com-crop.gif?raw=true" alt="MasterHead" width="100%">
+
 
 <h1 align="center"> Hi there, I'm Momina! </h1>
 
