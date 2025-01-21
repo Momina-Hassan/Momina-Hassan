@@ -10,7 +10,7 @@
 
 <div style="display: flex; align-items: right;">
   
-<img align="right" width="170" height="170" src="https://github.com/user-attachments/assets/77c5d916-1abd-444c-ac39-6ec68f18307a" alt="gif of my Octocats"></a>
+<img align="right" width="200" height="200" src="https://github.com/user-attachments/assets/77c5d916-1abd-444c-ac39-6ec68f18307a" alt="gif of my Octocats"></a>
 
 <div>
   <p>
