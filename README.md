@@ -15,13 +15,12 @@
   <div>
     <p>
       I'm in my second year of studying Computer Science at McMaster University. I'm super passionate aboout coding and have experience in backend, frontend, and hardware. I love tackling challenging problems, bringing my creative ideas to life, and expanding my skills. 
+    </p>
+  </div>
       When I’m not immersed in school assignments, you’ll often find me..
       - 👩🏽‍💻 working on personal projects 
       - 🎨 lost in a painting session 
-      - 📚 buried in the pages of a good novel 
-    </p>
-  </div>
-<!--
+      - 📚 buried in the pages of a good novel <!--
 ### Top Languages
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Momina-Hassan&layout=donut)](https://github.com/Momina-Hassan/github-readme-stats)
 
