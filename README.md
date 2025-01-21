@@ -6,7 +6,7 @@
 
   <div>
     <p>
-      I'm in my second year of studying Computer Science at McMaster University. I'm super passionate aboout coding and have experience in backend and frontend. I love tackling challenging problems, bringing my creative ideas to life, and continuously expanding my skills. When I’m not immersed in school assignments, you’ll often find me working on personal projects 👩🏽‍💻, lost in a painting session 👩🏽‍🎨 🎨, or buried in the pages of a good novel 📚.
+      I'm in my second year of studying Computer Science at McMaster University. I'm super passionate aboout coding and have experience in backend, frontend, and hardware. I love tackling challenging problems, bringing my creative ideas to life, and expanding my skills. When I’m not immersed in school assignments, you’ll often find me working on personal projects 👩🏽‍💻, lost in a painting session 👩🏽‍🎨 🎨, or buried in the pages of a good novel 📚.
     </p>
   </div>
 <!--
