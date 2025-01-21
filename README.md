@@ -22,7 +22,6 @@ When I’m not immersed in school assignments, you’ll often find me:
 - 👩🏽‍💻 Working on personal projects
 - 🎨 Lost in a painting session
 - 📚 Buried in the pages of a good novel
--
 
 
   
