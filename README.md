@@ -1,13 +1,12 @@
 ## Hi there, I'm Momina 👋
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: right;">
 
-  <img src="https://github.com/user-attachments/assets/3aca593a-7a92-49e8-b481-876b2a98bc1d" alt="Octocat" width="150" style="margin-right: 20px;">
+  <img src="https://github.com/user-attachments/assets/3aca593a-7a92-49e8-b481-876b2a98bc1d" alt="My Octocat" width="150" style="margin-right: 20px;">
 
   <div>
-    <h2>About Me</h2>
     <p>
-      I'm in my second year of studying Computer Science at McMaster University. I'm super passionate aboout coding and have experience in backend and frontend. I love tackling challenging problems, bringing my creative ideas to life, and continuously expanding my skills. When I’m not immersed in school assignments, you’ll often find me working on personal projects 👩🏽‍💻, lost in a painting session 👩🏽‍🎨 🎨, or buried into the pages of a good novel 📚.
+      I'm in my second year of studying Computer Science at McMaster University. I'm super passionate aboout coding and have experience in backend and frontend. I love tackling challenging problems, bringing my creative ideas to life, and continuously expanding my skills. When I’m not immersed in school assignments, you’ll often find me working on personal projects 👩🏽‍💻, lost in a painting session 👩🏽‍🎨 🎨, or buried in the pages of a good novel 📚.
     </p>
   </div>
 <!--
