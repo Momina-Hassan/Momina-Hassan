@@ -1,8 +1,8 @@
 ## Hi there, I'm Momina 👋
 
 <div style="display: flex; align-items: right;">
-
-  <img src="https://github.com/user-attachments/assets/3aca593a-7a92-49e8-b481-876b2a98bc1d" alt="My Octocat" width="150" style="margin-right: 20px;">
+  
+<img align="right" width="150" height="150" src="https://github.com/user-attachments/assets/3aca593a-7a92-49e8-b481-876b2a98bc1d" alt="gif of my Octocats"></a>
 
   <div>
     <p>
