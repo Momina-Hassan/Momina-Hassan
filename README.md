@@ -1,10 +1,10 @@
 
 
 
-![MasterHead](https://github.com/Momina-Hassan/Momina-Hassan/blob/main/263627_after.gif?raw=true)
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner-image.png" alt="MasterHead" width="100%">
 
+<h1 align="center"> Hi there, I'm Momina! </h1>
 
-## Hi there, I'm Momina 👋
 
 <div style="display: flex; align-items: right;">
   
