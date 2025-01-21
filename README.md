@@ -10,7 +10,7 @@
 
 <div style="display: flex; align-items: right;">
   
-<img align="right" width="150" height="150" src="https://github.com/user-attachments/assets/3aca593a-7a92-49e8-b481-876b2a98bc1d" alt="gif of my Octocats"></a>
+<img align="right" width="150" height="150" src="https://github.com/user-attachments/assets/77c5d916-1abd-444c-ac39-6ec68f18307a" alt="gif of my Octocats"></a>
 
 <div>
   <p>
@@ -22,5 +22,7 @@ When I’m not immersed in school assignments, you’ll often find me:
 - 👩🏽‍💻 Working on personal projects
 - 🎨 Lost in a painting session
 - 📚 Buried in the pages of a good novel
-  
+-
 
+
+  
