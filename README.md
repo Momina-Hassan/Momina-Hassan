@@ -1,7 +1,8 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/3ab36b60-c320-471b-b044-40421be5632c" alt="MasterHead" width="100%">
+<img src="https://github.com/Momina-Hassan/Momina-Hassan/blob/main/263627_after.gif?raw=true" alt="MasterHead" width="100%">
+
 
 <h1 align="center"> Hi there, I'm Momina! </h1>
 
