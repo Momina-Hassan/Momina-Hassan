@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/3aca593a-7a92-49e8-b481-876b2a98bc1d)
 
 <!--
 ### Top Languages
