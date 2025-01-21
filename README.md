@@ -1,5 +1,7 @@
 
-![MasterHead]([https://raw.githubusercontent.com/your-username/your-repo/main/banner-image.png](https://github.com/Momina-Hassan/Momina-Hassan/blob/955a3f6bbfd60d1db4736f7ae12a5cf5eb5f481e/278a4622b387f0dfcc3ee515b4009634.gif))
+
+
+![MasterHead](https://github.com/Momina-Hassan/Momina-Hassan/blob/main/263627_after.gif?raw=true)
 
 
 ## Hi there, I'm Momina 👋
