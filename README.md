@@ -14,7 +14,7 @@
 
 <div>
   <p>
-    I'm in my second year of studying Computer Science at McMaster University. I'm super passionate about coding and have experience in backend, frontend, and hardware. I love tackling challenging problems, bringing my creative ideas to life, and expanding my skills.
+    I'm in my third year of studying Computer Science at McMaster University. I'm super passionate about coding and have experience in backend, frontend, and hardware. I love tackling challenging problems, bringing my creative ideas to life, and expanding my skills.
   </p>
 </div>
 
